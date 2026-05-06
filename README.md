@@ -27,22 +27,7 @@ A simple Google Colab tutorial for creating a downloadable QR code from any URL.
    `Run all`
 8. The QR code will be created, displayed in Google Colab, and downloaded automatically as a PNG image.
 
-## Method 2: Open Google Colab
 
-1. Open [Google Colab](https://colab.research.google.com/).
-
-2. insert `Code`
-
-4. Paste the following code into the code cell:
-
-   ```python
-
-    # Install required package
-!pip install qrcode[pil]
-
-import qrcode
-from PIL import Image
-from google.colab import files
 
 ## Method 2: Open Google Colab and Paste the Code
 
