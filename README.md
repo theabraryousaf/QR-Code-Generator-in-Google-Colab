@@ -23,4 +23,6 @@ A simple Google Colab tutorial for creating a downloadable QR code from any URL.
    url = "https://www.sciencedirect.com/science/article/pii/S0141813025028880"
 
 6. Run the notebook cell.
-7. The QR code will be created, displayed in Google Colab, and downloaded automatically as a PNG image.
+
+   `Run all`
+8. The QR code will be created, displayed in Google Colab, and downloaded automatically as a PNG image.
